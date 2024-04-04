@@ -1,0 +1,14 @@
+{
+  "name": "habits-proj",
+  "version": "1.0.0",
+  "description": "habbits-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "habbits"
+  ],
+  "author": "Dmitry Paramzin",
+  "license": "ISC"
+}
